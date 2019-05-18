@@ -1106,7 +1106,8 @@
       , 'weibo': weiboShare
     };
 
-    angular.module('720kb.socialshare', [])
+
+  angular.module('720kb.socialshare', [])
   .provider(directiveName + 'Conf', socialshareConfigurationProvider)
   .service(serviceName, socialshareService)
   .directive(directiveName, socialshareDirective);
