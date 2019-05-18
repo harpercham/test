@@ -1,13 +1,3 @@
-/*
- * angular-socialshare
- * 2.3.11
- * 
- * A social media url and content share module for angularjs.
- * http://720kb.github.io/angular-socialshare
- * 
- * MIT license
- * Fri Jun 23 2017
- */
 /*global angular*/
 /*eslint no-loop-func:0, func-names:0*/
 
